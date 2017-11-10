@@ -6,7 +6,8 @@ public class TestingScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        print("Hello Jefferey!!!");
+        print("Hello Jeffrey!!!");
+	print("Hello Miko!!!");
 		
 	}
 	
