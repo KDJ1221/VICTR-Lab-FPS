@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Animation Practice.unity
+- path: Assets/Cops.unity
   isLoaded: 1
   isActive: 1
